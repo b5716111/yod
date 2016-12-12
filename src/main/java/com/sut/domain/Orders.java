@@ -7,4 +7,8 @@ import org.springframework.roo.addon.tostring.RooToString;
 @RooToString
 @RooJpaActiveRecord
 public class Orders {
+
+    /**
+     */
+    private String name;
 }
