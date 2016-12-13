@@ -4,5 +4,6 @@
     <jsp:output omit-xml-declaration="yes"/>
     <form:update id="fu_com_sut_domain_Orders" modelAttribute="orders" path="/orderses" versionField="Version" z="cCuBzYKjVGGXXYi1eZbh4KpwLh0=">
         <field:input field="name" id="c_com_sut_domain_Orders_name" z="65EirGYXxoj+b8U2pKi3JJNFiC4="/>
+        <field:input field="mo" id="c_com_sut_domain_Orders_mo" z="J5RaOZ8vDiFX82CzKpCmiih0T7U="/>
     </form:update>
 </div>

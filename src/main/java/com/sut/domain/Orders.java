@@ -11,4 +11,8 @@ public class Orders {
     /**
      */
     private String name;
+
+    /**
+     */
+    private String mo;
 }
