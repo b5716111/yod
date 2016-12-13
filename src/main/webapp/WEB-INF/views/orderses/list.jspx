@@ -5,6 +5,7 @@
     <page:list id="pl_com_sut_domain_Orders" items="${orderses}" z="Ab1k6fpYXE4KvQdAz/CsJklBNhM=">
         <table:table data="${orderses}" id="l_com_sut_domain_Orders" path="/orderses" z="BXw3Kjb3j1CVhnz1nUm88eHzUrE=">
             <table:column id="c_com_sut_domain_Orders_name" property="name" z="bD782/EsUeEL6UhuWGHyV3IZehc="/>
+            <table:column id="c_com_sut_domain_Orders_mo" property="mo" z="HBEYPC4YOjKsdLPKpl0fAIqSjQU="/>
         </table:table>
     </page:list>
 </div>
